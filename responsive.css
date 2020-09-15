@@ -1,0 +1,300 @@
+@media screen and (max-width: 321px) {
+    .nav-1 {
+        display: block;
+    }
+    .search {
+        width: 90%;
+        margin: 20px auto;
+    }
+    .search button {
+        width: 28px;
+    }
+    .ideas {
+        width: 50%;
+        margin-top: 1.5rem;
+    }
+    .user {
+        width: 50%;
+        padding-left: 16px;
+    }
+    .hello p {
+        float: left;
+    }
+    .cart {
+        padding-left: 16px;
+    }
+    .nav-2 {
+        display: block;
+    }
+    .nav-2-left,
+    .nav-2-right {
+        width: 100%;
+        display: block;
+        padding: 12px 0px;
+    }
+    .salebox1,
+    .salebox2 {
+        display: block;
+    }
+    .services1,
+    .services2 {
+        display: block;
+    }
+    .footer {
+        display: block;
+    }
+    .foot-1,
+    .foot-2,
+    .foot-3,
+    .foot-4 {
+        width: 100%;
+    }
+    .diyone {
+        display: block;
+        width: 100%;
+    }
+    .sale1,
+    .sale2 {
+        width: 100%;
+    }
+    .diyprotips {
+        width: 100%;
+        padding: 20px 0px;
+    }
+    .shipping,
+    .return,
+    .rentals,
+    .warrenty,
+    .diypro,
+    .gift {
+        display: block;
+    }
+    .bannertext {
+        padding: 10px 0px;
+    }
+    .one {
+        font-size: 12px;
+        margin-bottom: 6px;
+    }
+    .two {
+        font-size: 32px;
+        margin-bottom: 6px;
+    }
+    .three {
+        font-size: 22px;
+        margin-bottom: 6px;
+    }
+    .images {
+        display: block;
+        width: 100%;
+    }
+    .thumb1,
+    .thumb2,
+    .thumb3 {
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .nav-1 {
+        display: block;
+    }
+    .search {
+        width: 90%;
+        margin: 20px auto;
+    }
+    .search button {
+        width: 28px;
+    }
+    .ideas {
+        width: 50%;
+        margin-top: 1.5rem;
+    }
+    .user {
+        width: 50%;
+        padding-left: 16px;
+    }
+    .hello p {
+        float: left;
+    }
+    .cart {
+        padding-left: 16px;
+    }
+    .nav-2 {
+        display: block;
+    }
+    .nav-2-left,
+    .nav-2-right {
+        width: 100%;
+        display: block;
+        padding: 12px 0px;
+    }
+    .salebox1,
+    .salebox2 {
+        display: block;
+    }
+    .services1,
+    .services2 {
+        display: block;
+    }
+    .footer {
+        display: block;
+    }
+    .foot-1,
+    .foot-2,
+    .foot-3,
+    .foot-4 {
+        width: 100%;
+    }
+    .diyone {
+        display: block;
+        width: 100%;
+    }
+    .sale1,
+    .sale2 {
+        width: 100%;
+    }
+    .diyprotips {
+        width: 100%;
+        padding: 20px 0px;
+    }
+    .shipping,
+    .return,
+    .rentals,
+    .warrenty,
+    .diypro,
+    .gift {
+        display: block;
+    }
+    .bannertext {
+        padding: 10px 0px;
+    }
+    .one {
+        font-size: 12px;
+        margin-bottom: 6px;
+    }
+    .two {
+        font-size: 32px;
+        margin-bottom: 6px;
+    }
+    .three {
+        font-size: 22px;
+        margin-bottom: 6px;
+    }
+    .images {
+        display: block;
+        width: 100%;
+    }
+    .thumb1,
+    .thumb2,
+    .thumb3 {
+        width: auto;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .nav-1 {
+        display: block;
+    }
+    .search {
+        width: 90%;
+        margin: 20px auto;
+    }
+    .search button {
+        width: 28px;
+    }
+    .ideas {
+        width: 50%;
+        margin-top: 1.5rem;
+    }
+    .user {
+        width: 50%;
+        padding-left: 16px;
+    }
+    .hello p {
+        float: left;
+    }
+    .cart {
+        padding-left: 16px;
+    }
+    .nav-2 {
+        display: block;
+    }
+    .nav-2-left,
+    .nav-2-right {
+        width: 100%;
+        display: block;
+        padding: 12px 0px;
+    }
+    .salebox1,
+    .salebox2 {
+        display: block;
+    }
+    .services1,
+    .services2 {
+        display: block;
+    }
+    .footer {
+        display: block;
+    }
+    .foot-1,
+    .foot-2,
+    .foot-3,
+    .foot-4 {
+        width: 100%;
+    }
+    .diyone {
+        display: block;
+        width: 100%;
+    }
+    .sale1,
+    .sale2 {
+        width: 100%;
+    }
+    .diyprotips {
+        width: 100%;
+        padding: 20px 0px;
+    }
+    .shipping,
+    .return,
+    .rentals,
+    .warrenty,
+    .diypro,
+    .gift {
+        display: block;
+    }
+    .bannertext {
+        padding: 10px 0px;
+    }
+    .one {
+        font-size: 12px;
+        margin-bottom: 6px;
+    }
+    .two {
+        font-size: 32px;
+        margin-bottom: 6px;
+    }
+    .three {
+        font-size: 22px;
+        margin-bottom: 6px;
+    }
+    .images {
+        display: block;
+        width: 100%;
+    }
+    .thumb1,
+    .thumb2,
+    .thumb3 {
+        width: auto;
+    }
+}
+@media screen and (max-width: 769px) {
+    .shipping,
+    .return,
+    .rentals,
+    .warrenty,
+    .diypro,
+    .gift {
+        display: block;
+    }
+}
